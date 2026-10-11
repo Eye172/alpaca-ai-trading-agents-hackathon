@@ -1,0 +1,15 @@
+{
+  "project": "ThetaDesk",
+  "supplied": "2026-10-12",
+  "files": [
+    {
+      "original_filename": "Alpaca AI Trading Agents Hackathon-certificate.pdf",
+      "file": "alpaca-hackathon-completion.pdf",
+      "preview": "alpaca-hackathon-completion.png",
+      "label": "Alpaca AI Trading Agents Hackathon — completion",
+      "sha256": "6a75731de7ce819d074076774599ff6bd45f7b6613cb25700b5b7eb8bcca2352",
+      "bytes": 8758972,
+      "preview_sha256": "4ffd686cd6bfaa21b84c6b58ea85ba26e0beb800656ec4c137e2e39f132ab25f"
+    }
+  ]
+}

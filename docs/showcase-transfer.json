@@ -1,0 +1,70 @@
+{
+  "from": "Eye172/thetadesk-showcase",
+  "source_commit": "0694c34a7627604956249654358bc10c5561128a",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "55db45c68c12c801dfe85300f9cde86165bf218ca1d09415fdc523d3e9c4eef8"
+    },
+    {
+      "path": "README.md",
+      "sha256": "0c90fea8b9268f07fc71252b59e341a8fb160fd0c2a72a53f28bd09b599120a9"
+    },
+    {
+      "path": "dashboard.png",
+      "sha256": "12251889aced08a3e674a3161e19897b08a62c381d5fcb971a05f18119ab1e8b"
+    },
+    {
+      "path": "desk.png",
+      "sha256": "ffd69a0a4a80e4598b5b4472d4f324ed4f52e474abda72921a511b95c3b6110d"
+    },
+    {
+      "path": "docs/ENGINEERING-RECORD.md",
+      "sha256": "207b3c353b17b5a617f18ba9ab6077fb3028aa45cd9220e1ba27cdcae0392111"
+    },
+    {
+      "path": "docs/HACKATHON.md",
+      "sha256": "37e6ca6a5f8cc6ddb44f0e8c8f26a2535f9e4462888ed01fd33fd00e00ec8c77"
+    },
+    {
+      "path": "docs/MEDIA.md",
+      "sha256": "60fa6d3270a709d0c01f76ab96648ebf861ea4913b393bbb05d4d71eda8da2c5"
+    },
+    {
+      "path": "docs/awards/README.md",
+      "sha256": "4288d6ff1d26bef32d9ed5e6b54c5983a9b423dcc27b35ca5077bb372d929462"
+    },
+    {
+      "path": "docs/awards/alpaca-hackathon-completion.pdf",
+      "sha256": "6a75731de7ce819d074076774599ff6bd45f7b6613cb25700b5b7eb8bcca2352"
+    },
+    {
+      "path": "docs/awards/alpaca-hackathon-completion.png",
+      "sha256": "4ffd686cd6bfaa21b84c6b58ea85ba26e0beb800656ec4c137e2e39f132ab25f"
+    },
+    {
+      "path": "docs/awards/manifest.json",
+      "sha256": "6c3d8c3bf8f117df2059c11e78b8f46067277e0ceaaed79f2f9473400a93e742"
+    },
+    {
+      "path": "docs/media-manifest.json",
+      "sha256": "b3bf6cfa1106af051bc7d1a087e99534389b0f2cc59ae71a1307948f125a78b7"
+    },
+    {
+      "path": "media/theta-desk-demo.mp4",
+      "sha256": "bea8c4fa25a625a2641c9e0f1a6d1caf0c58bd64ad40f50e755ec55167c9b311"
+    },
+    {
+      "path": "media/theta-desk-slides.pdf",
+      "sha256": "41d306084faf221c81e97657d1f49b2c1e62d99526962d3eb1c4c50144218d26"
+    },
+    {
+      "path": "theta-proof.png",
+      "sha256": "3ee463256838c8cf637ce75070e2d5b39ec90e7f36d3eb82496a4d6280bd215b"
+    },
+    {
+      "path": "theta-rules.png",
+      "sha256": "cdbd27e494329c5ae6a24f60e44a981b6706ab25fb12fe4486c84e4acce74633"
+    }
+  ]
+}
