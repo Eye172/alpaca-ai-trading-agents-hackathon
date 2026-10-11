@@ -1,0 +1,4 @@
+# Keep source text portable and archived data byte-for-byte.
+* text=auto eol=lf
+data/** -text
+submission/_video/** -text

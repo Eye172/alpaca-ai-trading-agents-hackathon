@@ -1,0 +1,71 @@
+<meta charset="utf-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  @page { size: 1600px 900px; margin: 0; }
+  body { font-family: "Instrument Sans", "Segoe UI", -apple-system, sans-serif; color: #F4F4F1; }
+  .slide { width: 1600px; height: 900px; background: #0B0B0D; position: relative;
+           overflow: hidden; page-break-after: always; padding: 84px 96px;
+           display: flex; flex-direction: column; }
+  .grid { position: absolute; inset: 0;
+          background-image: linear-gradient(rgba(90,120,200,.06) 1px, transparent 1px),
+                            linear-gradient(90deg, rgba(90,120,200,.06) 1px, transparent 1px);
+          background-size: 48px 48px; }
+  .z { position: relative; z-index: 2; display: flex; flex-direction: column; height: 100%; }
+  .kicker { font-size: 20px; letter-spacing: .16em; color: #9C9C95; text-transform: uppercase; }
+  h1 { font-size: 96px; font-weight: 800; margin-top: 14px;
+       background: linear-gradient(92deg, #fff 20%, #F2C14E 80%);
+       -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+  h2 { font-size: 56px; font-weight: 750; margin-top: 10px; color: #fff; }
+  h2 .a { color: #F2C14E; }
+  .sub { font-size: 30px; color: #9C9C95; margin-top: 16px; font-weight: 300; max-width: 1250px; line-height: 1.45; }
+  .cols { display: flex; gap: 32px; margin-top: 44px; }
+  .card { background: rgba(20,28,48,.78); border: 1px solid rgba(122,162,255,.22);
+          border-radius: 16px; padding: 30px 34px; flex: 1; }
+  .card h3 { font-size: 28px; color: #F2C14E; margin-bottom: 12px; }
+  .card p, .card li { font-size: 23px; color: #9C9C95; line-height: 1.5; }
+  .card ul { margin-left: 26px; }
+  .big { font-size: 46px; color: #fff; font-weight: 700; }
+  .green { color: #F2C14E; } .blue { color: #F2C14E; } .red { color: #E4665C; }
+  .foot { margin-top: auto; display: flex; justify-content: space-between;
+          font-size: 20px; color: #616159; padding-top: 28px; }
+  .flow { display: flex; align-items: stretch; gap: 14px; margin-top: 48px; }
+  .step { background: rgba(20,28,48,.78); border: 1px solid rgba(122,162,255,.22);
+          border-radius: 14px; padding: 22px 20px; flex: 1; text-align: center; }
+  .step b { display: block; font-size: 24px; color: #fff; margin-bottom: 8px; }
+  .step span { font-size: 19px; color: #9C9C95; line-height: 1.35; display: block; }
+  .arrow { align-self: center; color: #F2C14E; font-size: 34px; }
+  .veto { border-color: rgba(53,224,176,.55); }
+  table { border-collapse: collapse; margin-top: 40px; width: 100%; }
+  th, td { text-align: left; padding: 16px 22px; font-size: 25px; }
+  th { color: #9C9C95; font-size: 21px; text-transform: uppercase; letter-spacing: .08em;
+       border-bottom: 2px solid rgba(122,162,255,.35); }
+  td { color: #F4F4F1; border-bottom: 1px solid rgba(122,162,255,.14); }
+  .mono { font-family: "IBM Plex Mono", Consolas, monospace; }
+</style>
+
+<!-- 1. TITLE -->
+<div class="slide"><div class="grid"></div><div class="z">
+  <div class="kicker">★ The veto right</div>
+  <h2>Before any order, the <span class="a">whole book</span> is repriced.</h2>
+  <div class="sub">Every open leg plus the candidate, over a ±20% underlying-price grid at the
+  judging horizon (deadline + 14 days — nothing expires while judges look), under a base and a
+  stressed-vol scenario, each leg priced off its own underlying's spot. If the worst grid P&amp;L
+  breaches budget — the order is never sent, and the refusal is journaled with the full grid.</div>
+  <div class="cols">
+    <div class="card"><h3>Why it matters</h3>
+      <p>This is a client-side implementation of the same worst-case principle as
+      <b>Alpaca's universal spread rule</b> for options margin — applied one step
+      earlier in the pipeline. We refuse orders before the broker ever could.</p></div>
+    <div class="card"><h3>Refusals are the product</h3>
+      <p>An agent that can decline to trade is the point. Every refusal is a
+      first-class journal entry: which gate, why, at what worst-case number.
+      The dashboard shows them next to the fills.</p></div>
+    <div class="card"><h3>Tested like an engine</h3>
+      <p>58 unit + property tests: condor worst case = one wing; hedge converts
+      the tail, not the plateau; random books never pass beyond budget; missing
+      spot raises instead of silently mispricing.</p></div>
+  </div>
+  <div class="foot"><div>engine/payoff.py · engine/gates.py — pure Python, no LLM anywhere near it</div></div>
+</div></div>
+
+<!-- 5. VERIFIABILITY -->

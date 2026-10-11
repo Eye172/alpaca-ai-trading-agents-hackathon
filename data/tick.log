@@ -1,0 +1,3980 @@
+﻿{
+  "signals": {
+    "spot": 766.015,
+    "rv20": 0.1387,
+    "atm_iv": 0.1211,
+    "vrp_score": 0.3736
+  },
+  "marks": {
+    "real": 43.77,
+    "shadow_nogates": 101.68,
+    "shadow_nohedge": 43.77,
+    "baseline_naive": -217.04
+  },
+  "entry_made": true
+}
+{
+  "signals": {
+    "spot": 766.515,
+    "rv20": 0.1387,
+    "atm_iv": 0.1211,
+    "vrp_score": 0.3734
+  },
+  "marks": {
+    "real": -6.5,
+    "shadow_nogates": 39.58,
+    "shadow_nohedge": -6.5,
+    "baseline_naive": -215.22
+  },
+  "entry_made": true
+}
+{
+  "signals": {
+    "spot": 762.4,
+    "rv20": 0.1322,
+    "atm_iv": 0.1279,
+    "vrp_score": 0.4674
+  },
+  "marks": {
+    "real": 483.26,
+    "shadow_nogates": 649.5,
+    "shadow_nohedge": 483.26,
+    "baseline_naive": 7.53
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 763.9549999999999,
+    "rv20": 0.1322,
+    "atm_iv": 0.1263,
+    "vrp_score": 0.4548
+  },
+  "marks": {
+    "real": 275.38,
+    "shadow_nogates": 390.48,
+    "shadow_nohedge": 275.38,
+    "baseline_naive": -80.73
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 764.11,
+    "rv20": 0.1322,
+    "atm_iv": 0.1256,
+    "vrp_score": 0.4499
+  },
+  "marks": {
+    "real": 231.24,
+    "shadow_nogates": 342.9,
+    "shadow_nohedge": 231.24,
+    "baseline_naive": -115.1
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 763.495,
+    "rv20": 0.1322,
+    "atm_iv": 0.1278,
+    "vrp_score": 0.4663
+  },
+  "marks": {
+    "real": 341.13,
+    "shadow_nogates": 474.4,
+    "shadow_nohedge": 341.13,
+    "baseline_naive": -89.41
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 762.92,
+    "rv20": 0.1322,
+    "atm_iv": 0.1268,
+    "vrp_score": 0.4592
+  },
+  "marks": {
+    "real": 381.25,
+    "shadow_nogates": 532.95,
+    "shadow_nohedge": 381.25,
+    "baseline_naive": -26.89
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 763.6,
+    "rv20": 0.1322,
+    "atm_iv": 0.1242,
+    "vrp_score": 0.4391
+  },
+  "marks": {
+    "real": 288.56,
+    "shadow_nogates": 419.11,
+    "shadow_nohedge": 288.56,
+    "baseline_naive": -121.13
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 764.27,
+    "rv20": 0.1322,
+    "atm_iv": 0.1249,
+    "vrp_score": 0.4441
+  },
+  "marks": {
+    "real": 209.73,
+    "shadow_nogates": 311.83,
+    "shadow_nohedge": 209.73,
+    "baseline_naive": -173.28
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 764.315,
+    "rv20": 0.1322,
+    "atm_iv": 0.124,
+    "vrp_score": 0.438
+  },
+  "marks": {
+    "real": 218.14,
+    "shadow_nogates": 326.86,
+    "shadow_nohedge": 218.14,
+    "baseline_naive": -152.95
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 763.52,
+    "rv20": 0.1322,
+    "atm_iv": 0.1254,
+    "vrp_score": 0.4481
+  },
+  "marks": {
+    "real": 311.87,
+    "shadow_nogates": 436.57,
+    "shadow_nohedge": 311.87,
+    "baseline_naive": -103.61
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 762.605,
+    "rv20": 0.1322,
+    "atm_iv": 0.1291,
+    "vrp_score": 0.4762
+  },
+  "marks": {
+    "real": 505.74,
+    "shadow_nogates": 695.71,
+    "shadow_nohedge": 505.74,
+    "baseline_naive": 9.77
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 761.775,
+    "rv20": 0.1322,
+    "atm_iv": 0.1315,
+    "vrp_score": 0.4943
+  },
+  "marks": {
+    "real": 602.32,
+    "shadow_nogates": 815.33,
+    "shadow_nohedge": 602.32,
+    "baseline_naive": 101.41
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 762.26,
+    "rv20": 0.1322,
+    "atm_iv": 0.13,
+    "vrp_score": 0.4834
+  },
+  "marks": {
+    "real": 534.64,
+    "shadow_nogates": 719.68,
+    "shadow_nohedge": 534.64,
+    "baseline_naive": 10.49
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 761.985,
+    "rv20": 0.1322,
+    "atm_iv": 0.1315,
+    "vrp_score": 0.4944
+  },
+  "marks": {
+    "real": 578.04,
+    "shadow_nogates": 781.8,
+    "shadow_nohedge": 578.04,
+    "baseline_naive": 87.93
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 761.705,
+    "rv20": 0.1322,
+    "atm_iv": 0.1317,
+    "vrp_score": 0.4955
+  },
+  "marks": {
+    "real": 648.87,
+    "shadow_nogates": 881.6,
+    "shadow_nohedge": 648.87,
+    "baseline_naive": 96.02
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 762.025,
+    "rv20": 0.1322,
+    "atm_iv": 0.1308,
+    "vrp_score": 0.4888
+  },
+  "marks": {
+    "real": 581.9,
+    "shadow_nogates": 789.28,
+    "shadow_nohedge": 581.9,
+    "baseline_naive": 40.43
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 761.86,
+    "rv20": 0.1322,
+    "atm_iv": 0.1303,
+    "vrp_score": 0.4853
+  },
+  "marks": {
+    "real": 617.87,
+    "shadow_nogates": 830.3,
+    "shadow_nohedge": 617.87,
+    "baseline_naive": 47.82
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 761.385,
+    "rv20": 0.1322,
+    "atm_iv": 0.1334,
+    "vrp_score": 0.5085
+  },
+  "marks": {
+    "real": 700.36,
+    "shadow_nogates": 951.52,
+    "shadow_nohedge": 700.36,
+    "baseline_naive": 130.45
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 761.235,
+    "rv20": 0.1322,
+    "atm_iv": 0.1346,
+    "vrp_score": 0.5177
+  },
+  "marks": {
+    "real": 737.4,
+    "shadow_nogates": 977.98,
+    "shadow_nohedge": 737.4,
+    "baseline_naive": 126.93
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 759.8199999999999,
+    "rv20": 0.1322,
+    "atm_iv": 0.1395,
+    "vrp_score": 0.555
+  },
+  "marks": {
+    "real": 976.1800000000001,
+    "shadow_nogates": 1351.05,
+    "shadow_nohedge": 976.1800000000001,
+    "baseline_naive": 338.99
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 760.665,
+    "rv20": 0.1322,
+    "atm_iv": 0.1355,
+    "vrp_score": 0.5246
+  },
+  "marks": {
+    "real": 946.9999999999999,
+    "shadow_nogates": 1121.21,
+    "shadow_nohedge": 946.9999999999999,
+    "baseline_naive": 191.2
+  },
+  "entry_made": false
+}
+python : INTEGRITY BREACH: unknown option positions at broker: ['SPY260918P00751000'] ù flatten required (manual 
+confirm in paper)
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:16 char:1
++ python -m thetadesk.main tick 2>&1 | Out-File -Append -Encoding utf8  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (INTEGRITY BREAC...nfirm in paper):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+{
+  "signals": {
+    "spot": 761.29,
+    "rv20": 0.1322,
+    "atm_iv": 0.135,
+    "vrp_score": 0.5211
+  },
+  "marks": {
+    "real": 910.13,
+    "shadow_nogates": 1002.82,
+    "shadow_nohedge": 910.13,
+    "baseline_naive": 168.59
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 760.995,
+    "rv20": 0.1322,
+    "atm_iv": 0.1344,
+    "vrp_score": 0.5163
+  },
+  "marks": {
+    "real": 932.77,
+    "shadow_nogates": 1080.27,
+    "shadow_nohedge": 932.77,
+    "baseline_naive": 139.45
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 761.8399999999999,
+    "rv20": 0.1322,
+    "atm_iv": 0.133,
+    "vrp_score": 0.506
+  },
+  "marks": {
+    "real": 915.11,
+    "shadow_nogates": 872.8,
+    "shadow_nohedge": 915.11,
+    "baseline_naive": 125.81
+  },
+  "entry_made": false
+}
+{
+  "signals": {
+    "spot": 380.925,
+    "rv20": 0.1322,
+    "atm_iv": 0.6662,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 37265.8,
+    "shadow_nogates": 182475.21,
+    "shadow_nohedge": 37265.8,
+    "baseline_naive": 73403.84
+  },
+  "entry_made": false
+}
+evidence saved to C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\data\evidence\2026-09-02: account, positions, orders, activities, portfolio_history
+note saved: C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\data\notes\2026-09-01.md
+Here's the wrap for September 1st.
+
+Vol-risk-premium sat rich all day (0.44û0.52), spot pinned around 761-764, and the book leaned into that with short-premium structures ù the right call given RV stayed a flat 13.2% against IV drifting up to 13-14%. We took profits methodically: four debit structures closed on target (+64%, +66%, +70%, and a 51%-realization exit), harvesting roughly $947 in gains
+{
+  "signals": {
+    "spot": 380.925,
+    "rv20": 0.1322,
+    "atm_iv": 0.6691,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 37265.89,
+    "shadow_nogates": 182475.63,
+    "shadow_nohedge": 37265.89,
+    "baseline_naive": 73404.02
+  },
+  "entry_made": false
+}
+evidence saved to C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\data\evidence\2026-09-02: account, positions, orders, activities, portfolio_history
+note saved: C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\data\notes\2026-09-01.md
+
+{
+  "signals": {
+    "spot": 762.405,
+    "rv20": 0.0717,
+    "atm_iv": 0.1336,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 879.85,
+    "shadow_nogates": 744.92,
+    "shadow_nohedge": 879.85,
+    "baseline_naive": 85.48
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 762.77,
+    "rv20": 0.0717,
+    "atm_iv": 0.1308,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 850.58,
+    "shadow_nogates": 602.68,
+    "shadow_nohedge": 850.58,
+    "baseline_naive": 62.16
+  },
+  "entry_made": true,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 762.73,
+    "rv20": 0.0717,
+    "atm_iv": 0.1305,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 848.74,
+    "shadow_nogates": 600.28,
+    "shadow_nohedge": 848.74,
+    "baseline_naive": 15.41
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+python : Traceback (most recent call last):
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:23 char:1
++ python -m thetadesk.main tick 2>&1 | Out-File -Append -Encoding utf8  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\src\thetadesk\main.py", line 696, in cmd_tick_locked
+    rc = cmd_tick(args)
+         ^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\src\thetadesk\main.py", line 663, in cmd_tick
+    marks = shadow.mark_all_books(store, spot_map, now, iv_map, store.realized_gains(),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\src\thetadesk\shadow\books.py", line 104, in mark_all_books
+    nogates = mark_to_model(shadow_legs(store, "shadow_nogates"), spot, asof, iv_map)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\src\thetadesk\engine\payoff.py", line 118, in mark_to_model
+    spots = _spot_map(spot, legs)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\src\thetadesk\engine\payoff.py", line 47, in _spot_map
+    raise ValueError(f"spot_map missing underlyings: {sorted(missing)}")
+ValueError: spot_map missing underlyings: ['QQQ']
+{
+  "signals": {
+    "spot": 765.2850000000001,
+    "rv20": 0.0717,
+    "atm_iv": 0.1267,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 763.91,
+    "shadow_nogates": 140.08,
+    "shadow_nohedge": 763.91,
+    "baseline_naive": -22.99
+  },
+  "entry_made": true,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 766.285,
+    "rv20": 0.0717,
+    "atm_iv": 0.1253,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 742.33,
+    "shadow_nogates": 5.98,
+    "shadow_nohedge": 742.33,
+    "baseline_naive": 14.57
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.25,
+    "rv20": 0.0717,
+    "atm_iv": 0.1273,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 782.83,
+    "shadow_nogates": 213.88,
+    "shadow_nohedge": 782.83,
+    "baseline_naive": -5.93
+  },
+  "entry_made": true,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.53,
+    "rv20": 0.0717,
+    "atm_iv": 0.1256,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 762.46,
+    "shadow_nogates": 135.17,
+    "shadow_nohedge": 762.46,
+    "baseline_naive": -38.83
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 766.2950000000001,
+    "rv20": 0.0717,
+    "atm_iv": 0.1265,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 723.2,
+    "shadow_nogates": -13.07,
+    "shadow_nohedge": 723.21,
+    "baseline_naive": 47.46
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.55,
+    "rv20": 0.0717,
+    "atm_iv": 0.1252,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 759.53,
+    "shadow_nogates": 110.78,
+    "shadow_nohedge": 757.6,
+    "baseline_naive": -25.35
+  },
+  "entry_made": true,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.825,
+    "rv20": 0.0717,
+    "atm_iv": 0.1248,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 732.91,
+    "shadow_nogates": 64.48,
+    "shadow_nohedge": 738.3,
+    "baseline_naive": 7.9
+  },
+  "entry_made": true,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.685,
+    "rv20": 0.0717,
+    "atm_iv": 0.1255,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 750.02,
+    "shadow_nogates": 89.0,
+    "shadow_nohedge": 750.48,
+    "baseline_naive": -16.99
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 764.78,
+    "rv20": 0.0717,
+    "atm_iv": 0.1249,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 793.47,
+    "shadow_nogates": 279.31,
+    "shadow_nohedge": 794.67,
+    "baseline_naive": -26.29
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 764.815,
+    "rv20": 0.0717,
+    "atm_iv": 0.1249,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 801.6,
+    "shadow_nogates": 274.68,
+    "shadow_nohedge": 803.57,
+    "baseline_naive": -17.48
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.0,
+    "rv20": 0.0717,
+    "atm_iv": 0.1249,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 793.87,
+    "shadow_nogates": 242.01,
+    "shadow_nohedge": 792.91,
+    "baseline_naive": -34.29
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 764.845,
+    "rv20": 0.0717,
+    "atm_iv": 0.1244,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 801.18,
+    "shadow_nogates": 297.41,
+    "shadow_nohedge": 804.82,
+    "baseline_naive": -75.72
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 764.75,
+    "rv20": 0.0717,
+    "atm_iv": 0.1241,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 807.45,
+    "shadow_nogates": 315.46,
+    "shadow_nohedge": 807.61,
+    "baseline_naive": -60.51
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 764.97,
+    "rv20": 0.0717,
+    "atm_iv": 0.1238,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 801.65,
+    "shadow_nogates": 253.5,
+    "shadow_nohedge": 803.02,
+    "baseline_naive": -65.51
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.25,
+    "rv20": 0.0717,
+    "atm_iv": 0.1236,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 796.66,
+    "shadow_nogates": 188.11,
+    "shadow_nohedge": 800.16,
+    "baseline_naive": -83.34
+  },
+  "entry_made": true,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.1949999999999,
+    "rv20": 0.0717,
+    "atm_iv": 0.1234,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 805.02,
+    "shadow_nogates": 252.27,
+    "shadow_nohedge": 808.52,
+    "baseline_naive": -80.06
+  },
+  "entry_made": true,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.3800000000001,
+    "rv20": 0.0717,
+    "atm_iv": 0.1239,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 796.29,
+    "shadow_nogates": 202.75,
+    "shadow_nohedge": 805.96,
+    "baseline_naive": -86.94
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 764.785,
+    "rv20": 0.0717,
+    "atm_iv": 0.1234,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 797.98,
+    "shadow_nogates": 257.33,
+    "shadow_nohedge": 803.74,
+    "baseline_naive": -114.49
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 764.875,
+    "rv20": 0.0717,
+    "atm_iv": 0.1223,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 799.46,
+    "shadow_nogates": 285.25,
+    "shadow_nohedge": 807.32,
+    "baseline_naive": -141.45
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.39,
+    "rv20": 0.0717,
+    "atm_iv": 0.1228,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 777.44,
+    "shadow_nogates": 101.79,
+    "shadow_nohedge": 787.15,
+    "baseline_naive": -116.68
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.44,
+    "rv20": 0.0717,
+    "atm_iv": 0.1232,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 757.28,
+    "shadow_nogates": 79.5,
+    "shadow_nohedge": 765.16,
+    "baseline_naive": -113.25
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 765.38,
+    "rv20": 0.0717,
+    "atm_iv": 0.1248,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 763.15,
+    "shadow_nogates": 61.21,
+    "shadow_nohedge": 772.1,
+    "baseline_naive": -46.12
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{"market_closed": true, "next_open": "2026-09-03T09:30:00-04:00"}
+{"market_closed": true, "next_open": "2026-09-03T09:30:00-04:00"}
+evidence saved to C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\data\evidence\2026-09-02: account, positions, orders, activities, portfolio_history
+note saved: C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\data\notes\2026-09-02.md
+Today the vol/RV ratio sat flat around 1.00 all session, so the desk stayed in "rich/rich" regime the whole day ? a setup that favors selling premium, not buying it. We closed out four cheap_vol_put longs on regime-exit logic, all modest winners ($241, $260, $21, $263), for a solid realized day. On the new-risk side we opened a batch of iron condors and one hedge put, but got turned away repeatedl
+THETA DESK — сводка за 2026-09-02
+
+Счёт: $100,734 (старт $100,000, +734)
+Зафиксировано с начала недели: +785$
+Открыто позиций: 5 (бумажная прибыль -10$)
+  • SPY 741P/731P/782C/792C до 18.09 (продано, x1) — сейчас +3$
+  • SPY 742P/732P/783C/793C до 18.09 (продано, x1) — сейчас +9$
+  • SPY 712P до 18.09 (куплено, x1) — сейчас +0$
+  • QQQ 680P/670P/735C/745C до 18.09 (продано, x1) — сейчас -3$
+  • QQQ 681P/671P/732C/742C до 18.09 (продано, x1) — сейчас -20$
+
+Сегодня: тиков 28, входов 8, закрытий 2, отказов гейтов 15, вето 0, нет кандидата 0
+Волатильность: дорогая (продаём премию) — IV 12.5% против RV 7.2%, спот 765.38
+Тревоги: 1 — LLM flagged the market data as suspect
+Ближайшее событие: Nonfarm Payrolls (NFP) через 40 ч
+
+delivery: {'logged': True, 'telegram': True, 'webhook': False}
+FAIL: line 594: prev_hash mismatch (715 entries)
+{"market_closed": true, "next_open": "2026-09-03T09:30:00-04:00"}
+FAIL: line 594: prev_hash mismatch (718 entries)
+{
+  "signals": {
+    "spot": 768.535,
+    "rv20": 0.0739,
+    "atm_iv": 0.1218,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 725.52,
+    "shadow_nogates": -435.42,
+    "shadow_nohedge": 745.6,
+    "baseline_naive": -64.9
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 769.81,
+    "rv20": 0.0739,
+    "atm_iv": 0.1219,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 592.28,
+    "shadow_nogates": -985.4,
+    "shadow_nohedge": 616.04,
+    "baseline_naive": -26.55
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 768.37,
+    "rv20": 0.0739,
+    "atm_iv": 0.123,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 677.5699999999999,
+    "shadow_nogates": -580.22,
+    "shadow_nohedge": 694.9300000000001,
+    "baseline_naive": -22.9
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 768.345,
+    "rv20": 0.0739,
+    "atm_iv": 0.1221,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 694.42,
+    "shadow_nogates": -541.94,
+    "shadow_nohedge": 713.12,
+    "baseline_naive": -54.68
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 768.47,
+    "rv20": 0.0739,
+    "atm_iv": 0.1224,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 669.54,
+    "shadow_nogates": -617.1,
+    "shadow_nohedge": 691.44,
+    "baseline_naive": -60.34
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 768.235,
+    "rv20": 0.0739,
+    "atm_iv": 0.1215,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 717.85,
+    "shadow_nogates": -424.35,
+    "shadow_nohedge": 738.82,
+    "baseline_naive": -69.5
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 769.56,
+    "rv20": 0.0739,
+    "atm_iv": 0.1204,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 649.85,
+    "shadow_nogates": -909.92,
+    "shadow_nohedge": 677.0699999999999,
+    "baseline_naive": -106.64
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 771.745,
+    "rv20": 0.0739,
+    "atm_iv": 0.1218,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 518.5699999999999,
+    "shadow_nogates": -1658.55,
+    "shadow_nohedge": 546.41,
+    "baseline_naive": 47.72
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 773.0550000000001,
+    "rv20": 0.0739,
+    "atm_iv": 0.1237,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 393.62,
+    "shadow_nogates": -2301.94,
+    "shadow_nohedge": 423.84,
+    "baseline_naive": 170.06
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 772.5999999999999,
+    "rv20": 0.0739,
+    "atm_iv": 0.1219,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 456.13,
+    "shadow_nogates": -1986.55,
+    "shadow_nohedge": 485.32,
+    "baseline_naive": 94.23
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 773.135,
+    "rv20": 0.0739,
+    "atm_iv": 0.1217,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 446.96,
+    "shadow_nogates": -2030.24,
+    "shadow_nohedge": 478.47,
+    "baseline_naive": 53.14
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 772.63,
+    "rv20": 0.0739,
+    "atm_iv": 0.1188,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 489.28,
+    "shadow_nogates": -1847.74,
+    "shadow_nohedge": 526.01,
+    "baseline_naive": 44.42
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 772.37,
+    "rv20": 0.0739,
+    "atm_iv": 0.1191,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 516.03,
+    "shadow_nogates": -1672.57,
+    "shadow_nohedge": 548.73,
+    "baseline_naive": -16.92
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 773.165,
+    "rv20": 0.0739,
+    "atm_iv": 0.1196,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 459.67,
+    "shadow_nogates": -1990.69,
+    "shadow_nohedge": 492.48,
+    "baseline_naive": -17.11
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 772.8050000000001,
+    "rv20": 0.0739,
+    "atm_iv": 0.118,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 460.09,
+    "shadow_nogates": -1954.7,
+    "shadow_nohedge": 497.02,
+    "baseline_naive": -14.31
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 772.45,
+    "rv20": 0.0739,
+    "atm_iv": 0.1179,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 515.28,
+    "shadow_nogates": -1672.56,
+    "shadow_nohedge": 553.3,
+    "baseline_naive": -31.23
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 772.825,
+    "rv20": 0.0739,
+    "atm_iv": 0.1162,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 477.78,
+    "shadow_nogates": -1795.07,
+    "shadow_nohedge": 516.98,
+    "baseline_naive": -110.36
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 772.935,
+    "rv20": 0.0739,
+    "atm_iv": 0.1167,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 483.74,
+    "shadow_nogates": -1893.22,
+    "shadow_nohedge": 518.71,
+    "baseline_naive": -75.77
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 773.885,
+    "rv20": 0.0739,
+    "atm_iv": 0.118,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 398.78,
+    "shadow_nogates": -2400.36,
+    "shadow_nohedge": 434.08,
+    "baseline_naive": -15.16
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 773.95,
+    "rv20": 0.0739,
+    "atm_iv": 0.1186,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 401.18,
+    "shadow_nogates": -2418.13,
+    "shadow_nohedge": 436.53,
+    "baseline_naive": -71.91
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 773.63,
+    "rv20": 0.0739,
+    "atm_iv": 0.1165,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 417.40999999999997,
+    "shadow_nogates": -2212.82,
+    "shadow_nohedge": 452.75,
+    "baseline_naive": -13.77
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 773.665,
+    "rv20": 0.0739,
+    "atm_iv": 0.1164,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 426.24,
+    "shadow_nogates": -2172.79,
+    "shadow_nohedge": 463.65999999999997,
+    "baseline_naive": -9.86
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 773.5699999999999,
+    "rv20": 0.0739,
+    "atm_iv": 0.1153,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 409.53999999999996,
+    "shadow_nogates": -2109.93,
+    "shadow_nohedge": 451.07,
+    "baseline_naive": -93.0
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 773.39,
+    "rv20": 0.0739,
+    "atm_iv": 0.1159,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 437.59000000000003,
+    "shadow_nogates": -1920.41,
+    "shadow_nohedge": 474.2,
+    "baseline_naive": -114.29
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 773.47,
+    "rv20": 0.0739,
+    "atm_iv": 0.1162,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 455.98,
+    "shadow_nogates": -1770.53,
+    "shadow_nohedge": 497.67,
+    "baseline_naive": -140.6
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{
+  "signals": {
+    "spot": 773.24,
+    "rv20": 0.0739,
+    "atm_iv": 0.1158,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 460.85,
+    "shadow_nogates": -1714.75,
+    "shadow_nohedge": 499.56,
+    "baseline_naive": -63.22
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+{"market_closed": true, "next_open": "2026-09-04T09:30:00-04:00"}
+{"market_closed": true, "next_open": "2026-09-04T09:30:00-04:00"}
+evidence saved to C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\data\evidence\2026-09-03: account, positions, orders, activities, portfolio_history
+note saved: C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\data\notes\2026-09-03.md
+Signal read was steady all day: RV at 7.4% against IV drifting from 12.2% down to 11.5-12%, vrp pinned at 1.00 ? nothing dramatic, but NFP sitting ~17-20 hours out kept the book in derisk mode the whole session. Most entry attempts were refused, split between the event gate (no new risk ahead of NFP) and liquidity gate (several QQQ/SPY strikes with spreads too wide, 8.6-16.9%). The one thing that 
+THETA DESK — сводка за 2026-09-03
+
+Счёт: $100,434 (старт $100,000, +434)
+Зафиксировано с начала недели: +598$
+Открыто позиций: 3 (бумажная прибыль -96$)
+  • SPY 712P до 18.09 (куплено, x1) — сейчас +0$
+  • QQQ 680P/670P/735C/745C до 18.09 (продано, x1) — сейчас -36$
+  • QQQ 681P/671P/732C/742C до 18.09 (продано, x1) — сейчас -59$
+
+Сегодня: тиков 28, входов 0, закрытий 2, отказов гейтов 26, вето 0, нет кандидата 0
+Волатильность: дорогая (продаём премию) — IV 11.6% против RV 7.4%, спот 773.24
+Ближайшее событие: Nonfarm Payrolls (NFP) через 16 ч
+
+delivery: {'logged': True, 'telegram': True, 'webhook': False}
+OK: chain intact (1167 entries)
+snapshots: 35 compressed, 48 already, 23.2 MB saved, 3 raw pruned
+{"market_closed": true, "next_open": "2026-09-04T09:30:00-04:00"}
+{
+  "signals": {
+    "spot": 772.085,
+    "rv20": 0.0829,
+    "atm_iv": 0.1132,
+    "vrp_score": 0.866
+  },
+  "marks": {
+    "real": 442.16999999999996,
+    "shadow_nogates": -1212.95,
+    "shadow_nohedge": 482.85,
+    "baseline_naive": -305.72
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +442.17 (+0.44%) marked 2026-09-04T13:30:37  realized +598.00
+broker equity 100,431.89
+open 3  closed 6  unfilled 2  = 11 total
+refusals 110 across 7 kinds  blotter 900 of 1194
+chain OK  test defs 155 / collected 162  claims 20
+series: signal 92, gates 58, desk 69, refusals 110, integrity 100, derisk 26, ticks 98, alt 78, brokercheck 4, reprice 4, daily 6, quarantine 8
+        books real 89, shadow_nogates 88, shadow_nohedge 88, baseline_naive 88
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (383 KB)
+{
+  "signals": {
+    "spot": 772.1949999999999,
+    "rv20": 0.0829,
+    "atm_iv": 0.1127,
+    "vrp_score": 0.8606
+  },
+  "marks": {
+    "real": 432.72,
+    "shadow_nogates": -1407.1,
+    "shadow_nohedge": 472.74,
+    "baseline_naive": -360.3
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +432.72 (+0.43%) marked 2026-09-04T13:45:39  realized +598.00
+broker equity 100,418.89
+open 3  closed 6  unfilled 2  = 11 total
+refusals 111 across 7 kinds  blotter 900 of 1210
+chain OK  test defs 155 / collected 162  claims 20
+series: signal 93, gates 59, desk 70, refusals 111, integrity 101, derisk 26, ticks 99, alt 81, brokercheck 4, reprice 4, daily 6, quarantine 8
+        books real 93, shadow_nogates 92, shadow_nohedge 92, baseline_naive 92
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (389 KB)
+{
+  "signals": {
+    "spot": 772.16,
+    "rv20": 0.0829,
+    "atm_iv": 0.1122,
+    "vrp_score": 0.8545
+  },
+  "marks": {
+    "real": 381.41999999999996,
+    "shadow_nogates": -1590.83,
+    "shadow_nohedge": 422.35,
+    "baseline_naive": -390.42
+  },
+  "entry_made": true,
+  "mode": "full"
+}
+book pnl +381.42 (+0.38%) marked 2026-09-04T14:00:40  realized +598.00
+broker equity 100,368.89
+open 4  closed 6  unfilled 2  = 12 total
+refusals 111 across 7 kinds  blotter 900 of 1226
+chain OK  test defs 155 / collected 162  claims 20
+series: signal 94, gates 60, desk 71, refusals 111, integrity 102, derisk 26, ticks 100, alt 84, brokercheck 4, reprice 4, daily 6, quarantine 8
+        books real 96, shadow_nogates 95, shadow_nohedge 95, baseline_naive 95
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (396 KB)
+{
+  "signals": {
+    "spot": 771.565,
+    "rv20": 0.0829,
+    "atm_iv": 0.1112,
+    "vrp_score": 0.8423
+  },
+  "marks": {
+    "real": 418.74,
+    "shadow_nogates": -1111.07,
+    "shadow_nohedge": 459.65999999999997,
+    "baseline_naive": -409.47
+  },
+  "entry_made": true,
+  "mode": "full"
+}
+book pnl +418.74 (+0.42%) marked 2026-09-04T14:16:06  realized +598.00
+broker equity 100,409.89
+open 4  closed 6  unfilled 3  = 13 total
+refusals 111 across 7 kinds  blotter 900 of 1277
+chain OK  test defs 155 / collected 162  claims 20
+series: signal 95, gates 61, desk 72, refusals 111, integrity 103, derisk 26, ticks 101, alt 87, brokercheck 4, reprice 4, daily 6, quarantine 8
+        books real 100, shadow_nogates 99, shadow_nohedge 99, baseline_naive 99
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (407 KB)
+{
+  "signals": {
+    "spot": 771.215,
+    "rv20": 0.0829,
+    "atm_iv": 0.1119,
+    "vrp_score": 0.8507
+  },
+  "marks": {
+    "real": 446.43,
+    "shadow_nogates": -830.44,
+    "shadow_nohedge": 486.6,
+    "baseline_naive": -458.3
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +446.43 (+0.45%) marked 2026-09-04T14:30:47  realized +598.00
+broker equity 100,446.89
+open 3  closed 6  unfilled 5  = 14 total
+refusals 111 across 7 kinds  blotter 900 of 1330
+chain OK  test defs 155 / collected 162  claims 20
+series: signal 96, gates 62, desk 73, refusals 111, integrity 104, derisk 26, ticks 102, alt 90, brokercheck 4, reprice 4, daily 6, quarantine 8
+        books real 103, shadow_nogates 102, shadow_nohedge 102, baseline_naive 102
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (420 KB)
+{
+  "signals": {
+    "spot": 770.455,
+    "rv20": 0.0829,
+    "atm_iv": 0.1122,
+    "vrp_score": 0.8543
+  },
+  "marks": {
+    "real": 484.21,
+    "shadow_nogates": -523.76,
+    "shadow_nohedge": 523.54,
+    "baseline_naive": -478.25
+  },
+  "entry_made": true,
+  "mode": "full"
+}
+book pnl +484.21 (+0.48%) marked 2026-09-04T14:45:53  realized +598.00
+broker equity 100,472.89
+open 4  closed 6  unfilled 5  = 15 total
+refusals 111 across 7 kinds  blotter 900 of 1346
+chain OK  test defs 155 / collected 162  claims 20
+series: signal 97, gates 63, desk 74, refusals 111, integrity 105, derisk 26, ticks 103, alt 93, brokercheck 4, reprice 4, daily 6, quarantine 8
+        books real 107, shadow_nogates 106, shadow_nohedge 106, baseline_naive 106
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (427 KB)
+{
+  "signals": {
+    "spot": 769.585,
+    "rv20": 0.0829,
+    "atm_iv": 0.1135,
+    "vrp_score": 0.8698
+  },
+  "marks": {
+    "real": 489.74,
+    "shadow_nogates": -308.59,
+    "shadow_nohedge": 528.37,
+    "baseline_naive": -445.72
+  },
+  "entry_made": true,
+  "mode": "full"
+}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,463.79
+open 5  closed 6  unfilled 5  = 16 total
+refusals 111 across 7 kinds  blotter 900 of 1366
+chain OK  test defs 155 / collected 162  claims 20
+series: signal 98, gates 64, desk 75, refusals 111, integrity 106, derisk 26, ticks 104, alt 96, brokercheck 4, reprice 4, daily 6, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (433 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 112 across 7 kinds  blotter 900 of 1376
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 112, integrity 107, derisk 26, ticks 105, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (435 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 113 across 7 kinds  blotter 900 of 1380
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 113, integrity 108, derisk 26, ticks 106, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (435 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 114 across 7 kinds  blotter 900 of 1384
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 114, integrity 109, derisk 26, ticks 107, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (436 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 115 across 7 kinds  blotter 900 of 1388
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 115, integrity 110, derisk 26, ticks 108, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (436 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 116 across 7 kinds  blotter 900 of 1392
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 116, integrity 111, derisk 26, ticks 109, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (437 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 117 across 7 kinds  blotter 900 of 1396
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 117, integrity 112, derisk 26, ticks 110, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (437 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 118 across 7 kinds  blotter 900 of 1400
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 118, integrity 113, derisk 26, ticks 111, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (437 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 119 across 7 kinds  blotter 900 of 1404
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 119, integrity 114, derisk 26, ticks 112, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (438 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 120 across 7 kinds  blotter 900 of 1408
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 120, integrity 115, derisk 26, ticks 113, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (438 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 121 across 7 kinds  blotter 900 of 1412
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 121, integrity 116, derisk 26, ticks 114, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (439 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 122 across 7 kinds  blotter 900 of 1416
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 122, integrity 117, derisk 26, ticks 115, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (439 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 123 across 7 kinds  blotter 900 of 1420
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 123, integrity 118, derisk 26, ticks 116, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (438 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 124 across 7 kinds  blotter 900 of 1424
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 124, integrity 119, derisk 26, ticks 117, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (438 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 125 across 7 kinds  blotter 900 of 1428
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 125, integrity 120, derisk 26, ticks 118, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (438 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 126 across 7 kinds  blotter 900 of 1432
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 126, integrity 121, derisk 26, ticks 119, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (438 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 127 across 7 kinds  blotter 900 of 1436
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 127, integrity 122, derisk 26, ticks 120, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (439 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 128 across 7 kinds  blotter 900 of 1440
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 128, integrity 123, derisk 26, ticks 121, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (439 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 129 across 7 kinds  blotter 900 of 1444
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 129, integrity 124, derisk 26, ticks 122, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (439 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 130 across 7 kinds  blotter 900 of 1448
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 130, integrity 125, derisk 26, ticks 123, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (439 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 131 across 7 kinds  blotter 900 of 1452
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 131, integrity 126, derisk 26, ticks 124, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (440 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 132 across 7 kinds  blotter 900 of 1456
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 132, integrity 127, derisk 26, ticks 125, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (440 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker: no credentials
+open 5  closed 6  unfilled 5  = 16 total
+refusals 133 across 7 kinds  blotter 900 of 1460
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 133, integrity 128, derisk 26, ticks 126, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (441 KB)
+git : fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': Could not resolve 
+host: github.com
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (fatal: unable t...ost: github.com:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 134 across 7 kinds  blotter 900 of 1464
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 134, integrity 129, derisk 26, ticks 127, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (441 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 135 across 7 kinds  blotter 900 of 1468
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 135, integrity 130, derisk 26, ticks 128, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (441 KB)
+python : Traceback (most recent call last):
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:23 char:1
++ python -m thetadesk.main tick 2>&1 | Out-File -Append -Encoding utf8  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], Remot 
+   eException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connect
+ion.py", line 204, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\co
+nnection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 976, in 
+getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11002] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connect
+ionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connect
+ionpool.py", line 488, in _make_request
+    raise new_e
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connect
+ionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connect
+ionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connect
+ion.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connect
+ion.py", line 211, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='paper-api.alpaca.markets', 
+port=443): Failed to resolve 'paper-api.alpaca.markets' ([Errno 11002] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapte
+rs.py", line 645, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\connect
+ionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\urllib3\util\re
+try.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): 
+Max retries exceeded with url: /v2/account (Caused by 
+NameResolutionError("HTTPSConnection(host='paper-api.alpaca.markets', port=443): Failed to 
+resolve 'paper-api.alpaca.markets' ([Errno 11002] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\src\thetadesk\data\alpaca_client.py", line 
+64, in _req
+    resp = self.s.request(method, url, params=params, json=json, timeout=20)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessio
+ns.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\sessio
+ns.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\AppData\Local\Programs\Python\Python312\Lib\site-packages\requests\adapte
+rs.py", line 678, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='paper-api.alpaca.markets', 
+port=443): Max retries exceeded with url: /v2/account (Caused by 
+NameResolutionError("HTTPSConnection(host='paper-api.alpaca.markets', port=443): Failed to 
+resolve 'paper-api.alpaca.markets' ([Errno 11002] getaddrinfo failed)"))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\src\thetadesk\main.py", line 1033, in 
+cmd_tick_locked
+    rc = cmd_tick(args)
+         ^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\src\thetadesk\main.py", line 168, in 
+cmd_tick
+    account = client.account()
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\src\thetadesk\data\alpaca_client.py", line 
+89, in account
+    return self._req("GET", f"{TRADING}/v2/account")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\src\thetadesk\data\alpaca_client.py", line 
+68, in _req
+    raise AlpacaError(f"{method} {url}: {last_err}") from e
+thetadesk.data.alpaca_client.AlpacaError: GET https://paper-api.alpaca.markets/v2/account: 
+ConnectionError: HTTPSConnectionPool(host='paper-api.alpaca.markets', port=443): Max retries 
+exceeded with url: /v2/account (Caused by 
+NameResolutionError("HTTPSConnection(host='paper-api.alpaca.markets', port=443): Failed to 
+resolve 'paper-api.alpaca.markets' ([Errno 11002] getaddrinfo failed)"))
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker: no credentials
+open 5  closed 6  unfilled 5  = 16 total
+refusals 135 across 7 kinds  blotter 900 of 1470
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 135, integrity 130, derisk 26, ticks 129, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (443 KB)
+git : fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': Failed to connect to 
+github.com port 443 after 21097 ms: Could not connect to server
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (fatal: unable t...nnect to server:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 136 across 7 kinds  blotter 900 of 1474
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 136, integrity 131, derisk 26, ticks 130, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (444 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 137 across 7 kinds  blotter 900 of 1478
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 137, integrity 132, derisk 26, ticks 131, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (444 KB)
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 138 across 7 kinds  blotter 900 of 1482
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 138, integrity 133, derisk 26, ticks 132, alt 96, brokercheck 4, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (444 KB)
+evidence saved to C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\data\evidence\2026-09-07: account, positions, orders, activities, portfolio_history
+note generation failed: HTTPError: 400 Client Error: Bad Request for url: https://api.anthropic.com/v1/messages
+THETA DESK — сводка за 2026-09-07
+
+Счёт: $100,466 (старт $100,000, +466)
+Зафиксировано с начала недели: +598$
+Открыто позиций: 5 (бумажная прибыль +0$)
+  • SPY 712P до 18.09 (куплено, x1)
+  • QQQ 680P/670P/735C/745C до 18.09 (продано, x1)
+  • QQQ 681P/671P/732C/742C до 18.09 (продано, x1)
+  • QQQ 694P/684P/741C/751C до 18.09 (продано, x1)
+  • QQQ 694P/684P/740C/750C до 18.09 (продано, x1)
+
+Сегодня: тиков 28, входов 0, закрытий 0, отказов гейтов 0, вето 0, нет кандидата 0
+Ближайшее событие: CPI (August) через 64 ч
+
+delivery: {'logged': True, 'telegram': True, 'webhook': False}
+OK: chain intact (1482 entries)
+snapshots: 7 compressed, 80 already, 4.6 MB saved, 87 raw pruned
+{"market_closed": true, "next_open": "2026-09-08T09:30:00-04:00"}
+book pnl +489.74 (+0.49%) marked 2026-09-04T15:00:43  realized +598.00
+broker equity 100,396.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 1487
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 98, gates 64, desk 75, refusals 139, integrity 134, derisk 26, ticks 133, alt 96, brokercheck 5, reprice 4, daily 7, quarantine 8
+        books real 110, shadow_nogates 109, shadow_nohedge 109, baseline_naive 109
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (445 KB)
+note generation failed: HTTPError: 400 Client Error: Bad Request for url: https://api.anthropic.com/v1/messages
+{
+  "signals": {
+    "spot": 769.955,
+    "rv20": 0.0813,
+    "atm_iv": 0.1278,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 373.24,
+    "shadow_nogates": -878.21,
+    "shadow_nohedge": 413.03,
+    "baseline_naive": -711.65
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +373.24 (+0.37%) marked 2026-09-08T13:30:06  realized +598.00
+broker equity 100,299.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 1501
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 99, gates 64, desk 75, refusals 139, integrity 135, derisk 26, ticks 134, alt 96, brokercheck 5, reprice 4, daily 7, quarantine 8
+        books real 111, shadow_nogates 110, shadow_nohedge 110, baseline_naive 110
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (445 KB)
+{
+  "signals": {
+    "spot": 767.3050000000001,
+    "rv20": 0.0813,
+    "atm_iv": 0.1326,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 484.37,
+    "shadow_nogates": 110.32,
+    "shadow_nohedge": 518.62,
+    "baseline_naive": -602.47
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +484.37 (+0.48%) marked 2026-09-08T13:45:06  realized +598.00
+broker equity 100,463.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 1553
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 100, gates 64, desk 75, refusals 139, integrity 136, derisk 26, ticks 135, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 115, shadow_nogates 114, shadow_nohedge 114, baseline_naive 114
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (452 KB)
+{
+  "signals": {
+    "spot": 767.505,
+    "rv20": 0.0813,
+    "atm_iv": 0.1307,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 512.99,
+    "shadow_nogates": 189.56,
+    "shadow_nohedge": 550.37,
+    "baseline_naive": -695.41
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +512.99 (+0.51%) marked 2026-09-08T14:00:07  realized +598.00
+broker equity 100,478.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 1605
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 101, gates 64, desk 75, refusals 139, integrity 137, derisk 26, ticks 136, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 119, shadow_nogates 118, shadow_nohedge 118, baseline_naive 118
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (458 KB)
+{
+  "signals": {
+    "spot": 766.53,
+    "rv20": 0.0813,
+    "atm_iv": 0.1308,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 519.2,
+    "shadow_nogates": 551.01,
+    "shadow_nohedge": 554.87,
+    "baseline_naive": -622.27
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +519.20 (+0.52%) marked 2026-09-08T14:15:06  realized +598.00
+broker equity 100,506.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 1657
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 102, gates 64, desk 75, refusals 139, integrity 138, derisk 26, ticks 137, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 122, shadow_nogates 121, shadow_nohedge 121, baseline_naive 121
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (463 KB)
+{
+  "signals": {
+    "spot": 766.73,
+    "rv20": 0.0813,
+    "atm_iv": 0.1299,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 491.9,
+    "shadow_nogates": 477.02,
+    "shadow_nohedge": 526.31,
+    "baseline_naive": -695.0
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +491.90 (+0.49%) marked 2026-09-08T14:30:07  realized +598.00
+broker equity 100,484.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 1709
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 103, gates 64, desk 75, refusals 139, integrity 139, derisk 26, ticks 138, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 126, shadow_nogates 125, shadow_nohedge 125, baseline_naive 125
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (470 KB)
+{
+  "signals": {
+    "spot": 767.035,
+    "rv20": 0.0813,
+    "atm_iv": 0.13,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 535.66,
+    "shadow_nogates": 508.18,
+    "shadow_nohedge": 572.39,
+    "baseline_naive": -746.93
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +535.66 (+0.54%) marked 2026-09-08T14:45:06  realized +598.00
+broker equity 100,501.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 1761
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 104, gates 64, desk 75, refusals 139, integrity 140, derisk 26, ticks 139, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 129, shadow_nogates 128, shadow_nohedge 128, baseline_naive 128
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (476 KB)
+{
+  "signals": {
+    "spot": 767.65,
+    "rv20": 0.0813,
+    "atm_iv": 0.1282,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 478.2,
+    "shadow_nogates": 309.55,
+    "shadow_nohedge": 516.94,
+    "baseline_naive": -756.29
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +478.20 (+0.48%) marked 2026-09-08T15:00:07  realized +598.00
+broker equity 100,459.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 1813
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 105, gates 64, desk 75, refusals 139, integrity 141, derisk 26, ticks 140, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 133, shadow_nogates 132, shadow_nohedge 132, baseline_naive 132
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (483 KB)
+{
+  "signals": {
+    "spot": 768.06,
+    "rv20": 0.0813,
+    "atm_iv": 0.1297,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 439.11,
+    "shadow_nogates": -1.01,
+    "shadow_nohedge": 477.11,
+    "baseline_naive": -766.08
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +439.11 (+0.44%) marked 2026-09-08T15:15:06  realized +598.00
+broker equity 100,425.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 1865
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 106, gates 64, desk 75, refusals 139, integrity 142, derisk 26, ticks 141, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 137, shadow_nogates 136, shadow_nohedge 136, baseline_naive 136
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (490 KB)
+{
+  "signals": {
+    "spot": 767.7950000000001,
+    "rv20": 0.0813,
+    "atm_iv": 0.1291,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 421.36,
+    "shadow_nogates": -55.84,
+    "shadow_nohedge": 459.28,
+    "baseline_naive": -770.48
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +421.36 (+0.42%) marked 2026-09-08T15:30:07  realized +598.00
+broker equity 100,411.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 1917
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 107, gates 64, desk 75, refusals 139, integrity 143, derisk 26, ticks 142, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 140, shadow_nogates 139, shadow_nohedge 139, baseline_naive 139
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (497 KB)
+{
+  "signals": {
+    "spot": 767.985,
+    "rv20": 0.0813,
+    "atm_iv": 0.1288,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 403.65999999999997,
+    "shadow_nogates": -101.25,
+    "shadow_nohedge": 447.93,
+    "baseline_naive": -838.27
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +403.66 (+0.40%) marked 2026-09-08T15:45:06  realized +598.00
+broker equity 100,400.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 1969
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 108, gates 64, desk 75, refusals 139, integrity 144, derisk 26, ticks 143, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 144, shadow_nogates 143, shadow_nohedge 143, baseline_naive 143
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (504 KB)
+{
+  "signals": {
+    "spot": 767.315,
+    "rv20": 0.0813,
+    "atm_iv": 0.129,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 467.32,
+    "shadow_nogates": 316.97,
+    "shadow_nohedge": 508.58,
+    "baseline_naive": -821.73
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +467.32 (+0.47%) marked 2026-09-08T16:00:07  realized +598.00
+broker equity 100,448.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2021
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 109, gates 64, desk 75, refusals 139, integrity 145, derisk 26, ticks 144, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 147, shadow_nogates 146, shadow_nohedge 146, baseline_naive 146
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (509 KB)
+{
+  "signals": {
+    "spot": 767.135,
+    "rv20": 0.0813,
+    "atm_iv": 0.1291,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 485.61,
+    "shadow_nogates": 413.3,
+    "shadow_nohedge": 528.94,
+    "baseline_naive": -833.08
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +485.61 (+0.49%) marked 2026-09-08T16:15:06  realized +598.00
+broker equity 100,479.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2073
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 110, gates 64, desk 75, refusals 139, integrity 146, derisk 26, ticks 145, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 151, shadow_nogates 150, shadow_nohedge 150, baseline_naive 150
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (516 KB)
+{
+  "signals": {
+    "spot": 767.12,
+    "rv20": 0.0813,
+    "atm_iv": 0.1277,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 495.83,
+    "shadow_nogates": 511.66,
+    "shadow_nohedge": 535.42,
+    "baseline_naive": -816.42
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +495.83 (+0.50%) marked 2026-09-08T16:30:07  realized +598.00
+broker equity 100,485.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2125
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 111, gates 64, desk 75, refusals 139, integrity 147, derisk 26, ticks 146, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 155, shadow_nogates 154, shadow_nohedge 154, baseline_naive 154
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (522 KB)
+{
+  "signals": {
+    "spot": 767.085,
+    "rv20": 0.0813,
+    "atm_iv": 0.1289,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 498.09000000000003,
+    "shadow_nogates": 581.02,
+    "shadow_nohedge": 538.76,
+    "baseline_naive": -856.83
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +498.09 (+0.50%) marked 2026-09-08T16:45:06  realized +598.00
+broker equity 100,485.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2177
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 112, gates 64, desk 75, refusals 139, integrity 148, derisk 26, ticks 147, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 158, shadow_nogates 157, shadow_nohedge 157, baseline_naive 157
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (526 KB)
+{
+  "signals": {
+    "spot": 766.99,
+    "rv20": 0.0813,
+    "atm_iv": 0.1293,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 495.88,
+    "shadow_nogates": 564.52,
+    "shadow_nohedge": 535.64,
+    "baseline_naive": -830.69
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +495.88 (+0.50%) marked 2026-09-08T17:00:07  realized +598.00
+broker equity 100,471.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2229
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 113, gates 64, desk 75, refusals 139, integrity 149, derisk 26, ticks 148, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 162, shadow_nogates 161, shadow_nohedge 161, baseline_naive 161
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (527 KB)
+{
+  "signals": {
+    "spot": 767.645,
+    "rv20": 0.0813,
+    "atm_iv": 0.1286,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 429.01,
+    "shadow_nogates": 117.58,
+    "shadow_nohedge": 469.88,
+    "baseline_naive": -844.38
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +429.01 (+0.43%) marked 2026-09-08T17:15:06  realized +598.00
+broker equity 100,428.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2281
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 114, gates 64, desk 75, refusals 139, integrity 150, derisk 26, ticks 149, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 165, shadow_nogates 164, shadow_nohedge 164, baseline_naive 164
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (528 KB)
+{
+  "signals": {
+    "spot": 767.155,
+    "rv20": 0.0813,
+    "atm_iv": 0.1287,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 506.9,
+    "shadow_nogates": 533.04,
+    "shadow_nohedge": 547.3,
+    "baseline_naive": -833.83
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +506.90 (+0.51%) marked 2026-09-08T18:41:36  realized +598.00
+broker equity 100,480.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2324
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 115, gates 64, desk 75, refusals 139, integrity 151, derisk 26, ticks 150, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 168, shadow_nogates 167, shadow_nohedge 167, baseline_naive 167
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (530 KB)
+{
+  "signals": {
+    "spot": 767.52,
+    "rv20": 0.0813,
+    "atm_iv": 0.1283,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 491.58,
+    "shadow_nogates": 390.5,
+    "shadow_nohedge": 533.02,
+    "baseline_naive": -872.0
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +491.58 (+0.49%) marked 2026-09-08T18:45:07  realized +598.00
+broker equity 100,470.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2346
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 116, gates 64, desk 75, refusals 139, integrity 152, derisk 26, ticks 151, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 170, shadow_nogates 169, shadow_nohedge 169, baseline_naive 169
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (531 KB)
+{
+  "signals": {
+    "spot": 766.8050000000001,
+    "rv20": 0.0813,
+    "atm_iv": 0.1288,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 487.52,
+    "shadow_nogates": 445.89,
+    "shadow_nohedge": 525.1,
+    "baseline_naive": -798.89
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +487.52 (+0.49%) marked 2026-09-08T19:00:07  realized +598.00
+broker equity 100,447.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2392
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 117, gates 64, desk 75, refusals 139, integrity 153, derisk 26, ticks 152, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 174, shadow_nogates 173, shadow_nohedge 173, baseline_naive 173
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (535 KB)
+{
+  "signals": {
+    "spot": 766.925,
+    "rv20": 0.0813,
+    "atm_iv": 0.1292,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 489.53,
+    "shadow_nogates": 493.45,
+    "shadow_nohedge": 528.17,
+    "baseline_naive": -782.33
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +489.53 (+0.49%) marked 2026-09-08T19:15:07  realized +598.00
+broker equity 100,463.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2444
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 118, gates 64, desk 75, refusals 139, integrity 154, derisk 26, ticks 153, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 177, shadow_nogates 176, shadow_nohedge 176, baseline_naive 176
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (537 KB)
+{
+  "signals": {
+    "spot": 766.87,
+    "rv20": 0.0813,
+    "atm_iv": 0.1294,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 512.72,
+    "shadow_nogates": 621.69,
+    "shadow_nohedge": 553.39,
+    "baseline_naive": -779.58
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +512.72 (+0.51%) marked 2026-09-08T19:30:08  realized +598.00
+broker equity 100,482.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2496
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 119, gates 64, desk 75, refusals 139, integrity 155, derisk 26, ticks 154, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 181, shadow_nogates 180, shadow_nohedge 180, baseline_naive 180
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (539 KB)
+{
+  "signals": {
+    "spot": 766.76,
+    "rv20": 0.0813,
+    "atm_iv": 0.1294,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 519.11,
+    "shadow_nogates": 649.2,
+    "shadow_nohedge": 556.79,
+    "baseline_naive": -859.88
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +519.11 (+0.52%) marked 2026-09-08T19:45:08  realized +598.00
+broker equity 100,489.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 139 across 7 kinds  blotter 900 of 2548
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 120, gates 64, desk 75, refusals 139, integrity 156, derisk 26, ticks 155, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 184, shadow_nogates 183, shadow_nohedge 183, baseline_naive 183
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (542 KB)
+{"market_closed": true, "next_open": "2026-09-09T09:30:00-04:00"}
+book pnl +516.54 (+0.52%) marked 2026-09-08T19:57:06  realized +598.00
+broker equity 100,469.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 140 across 7 kinds  blotter 900 of 2591
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 120, gates 64, desk 75, refusals 140, integrity 157, derisk 26, ticks 156, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 187, shadow_nogates 186, shadow_nohedge 186, baseline_naive 186
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (544 KB)
+{
+  "signals": {
+    "spot": 763.87,
+    "rv20": 0.0834,
+    "atm_iv": 0.1345,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 539.01,
+    "shadow_nogates": 942.74,
+    "shadow_nohedge": 569.12,
+    "baseline_naive": -485.94
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +539.01 (+0.54%) marked 2026-09-09T13:30:07  realized +598.00
+broker equity 100,510.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 141 across 7 kinds  blotter 900 of 2606
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 121, gates 64, desk 75, refusals 141, integrity 158, derisk 27, ticks 157, alt 96, brokercheck 5, reprice 4, daily 8, quarantine 8
+        books real 188, shadow_nogates 187, shadow_nohedge 187, baseline_naive 187
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (545 KB)
+{
+  "signals": {
+    "spot": 763.715,
+    "rv20": 0.0834,
+    "atm_iv": 0.133,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 550.78,
+    "shadow_nogates": 1040.25,
+    "shadow_nohedge": 578.12,
+    "baseline_naive": -441.16
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +550.78 (+0.55%) marked 2026-09-09T13:45:08  realized +598.00
+broker equity 100,534.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 142 across 7 kinds  blotter 900 of 2659
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 122, gates 64, desk 75, refusals 142, integrity 159, derisk 28, ticks 158, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 192, shadow_nogates 191, shadow_nohedge 191, baseline_naive 191
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (547 KB)
+{
+  "signals": {
+    "spot": 764.185,
+    "rv20": 0.0834,
+    "atm_iv": 0.1331,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 469.5,
+    "shadow_nogates": 678.62,
+    "shadow_nohedge": 499.09000000000003,
+    "baseline_naive": -575.1
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +469.50 (+0.47%) marked 2026-09-09T14:00:08  realized +598.00
+broker equity 100,468.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 143 across 7 kinds  blotter 900 of 2712
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 123, gates 64, desk 75, refusals 143, integrity 160, derisk 29, ticks 159, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 196, shadow_nogates 195, shadow_nohedge 195, baseline_naive 195
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (550 KB)
+{
+  "signals": {
+    "spot": 763.86,
+    "rv20": 0.0834,
+    "atm_iv": 0.133,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 483.58,
+    "shadow_nogates": 762.88,
+    "shadow_nohedge": 516.48,
+    "baseline_naive": -547.55
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +483.58 (+0.48%) marked 2026-09-09T14:15:07  realized +598.00
+broker equity 100,487.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 144 across 7 kinds  blotter 900 of 2765
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 124, gates 64, desk 75, refusals 144, integrity 161, derisk 30, ticks 160, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 199, shadow_nogates 198, shadow_nohedge 198, baseline_naive 198
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (553 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 763.885,
+    "rv20": 0.0834,
+    "atm_iv": 0.1337,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 515.28,
+    "shadow_nogates": 870.58,
+    "shadow_nohedge": 546.16,
+    "baseline_naive": -579.26
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +515.28 (+0.52%) marked 2026-09-09T14:30:11  realized +598.00
+broker equity 100,508.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 145 across 7 kinds  blotter 900 of 2818
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 125, gates 64, desk 75, refusals 145, integrity 162, derisk 31, ticks 161, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 203, shadow_nogates 202, shadow_nohedge 202, baseline_naive 202
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (555 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 763.67,
+    "rv20": 0.0834,
+    "atm_iv": 0.1322,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 531.1,
+    "shadow_nogates": 964.88,
+    "shadow_nohedge": 560.87,
+    "baseline_naive": -581.02
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +531.10 (+0.53%) marked 2026-09-09T14:45:07  realized +598.00
+broker equity 100,512.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 146 across 7 kinds  blotter 900 of 2871
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 126, gates 64, desk 75, refusals 146, integrity 163, derisk 32, ticks 162, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 206, shadow_nogates 205, shadow_nohedge 205, baseline_naive 205
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (558 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 763.78,
+    "rv20": 0.0834,
+    "atm_iv": 0.1334,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 526.3,
+    "shadow_nogates": 940.97,
+    "shadow_nohedge": 556.21,
+    "baseline_naive": -576.85
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +526.30 (+0.53%) marked 2026-09-09T15:00:08  realized +598.00
+broker equity 100,503.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 147 across 7 kinds  blotter 900 of 2924
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 127, gates 64, desk 75, refusals 147, integrity 164, derisk 33, ticks 163, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 210, shadow_nogates 209, shadow_nohedge 209, baseline_naive 209
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (561 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 761.625,
+    "rv20": 0.0834,
+    "atm_iv": 0.1365,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 561.16,
+    "shadow_nogates": 1146.34,
+    "shadow_nohedge": 582.99,
+    "baseline_naive": 25.41
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +561.16 (+0.56%) marked 2026-09-09T15:15:07  realized +598.00
+broker equity 100,544.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 148 across 7 kinds  blotter 900 of 2977
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 128, gates 64, desk 75, refusals 148, integrity 165, derisk 34, ticks 164, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 214, shadow_nogates 213, shadow_nohedge 213, baseline_naive 213
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (563 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 761.7,
+    "rv20": 0.0834,
+    "atm_iv": 0.1367,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 578.45,
+    "shadow_nogates": 1306.27,
+    "shadow_nohedge": 602.53,
+    "baseline_naive": -41.43
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +578.45 (+0.58%) marked 2026-09-09T15:30:07  realized +598.00
+broker equity 100,563.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 149 across 7 kinds  blotter 900 of 3030
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 129, gates 64, desk 75, refusals 149, integrity 166, derisk 35, ticks 165, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 217, shadow_nogates 216, shadow_nohedge 216, baseline_naive 216
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (566 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 762.25,
+    "rv20": 0.0834,
+    "atm_iv": 0.1368,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 559.34,
+    "shadow_nogates": 1205.73,
+    "shadow_nohedge": 586.74,
+    "baseline_naive": -208.79
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +559.34 (+0.56%) marked 2026-09-09T15:45:07  realized +598.00
+broker equity 100,553.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 150 across 7 kinds  blotter 900 of 3083
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 130, gates 64, desk 75, refusals 150, integrity 167, derisk 36, ticks 166, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 221, shadow_nogates 220, shadow_nohedge 220, baseline_naive 220
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (569 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 762.0799999999999,
+    "rv20": 0.0834,
+    "atm_iv": 0.1355,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 559.16,
+    "shadow_nogates": 1180.11,
+    "shadow_nohedge": 584.53,
+    "baseline_naive": -170.71
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +559.16 (+0.56%) marked 2026-09-09T16:00:09  realized +598.00
+broker equity 100,541.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 151 across 7 kinds  blotter 900 of 3136
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 131, gates 64, desk 75, refusals 151, integrity 168, derisk 37, ticks 167, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 224, shadow_nogates 223, shadow_nohedge 223, baseline_naive 223
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (571 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 761.645,
+    "rv20": 0.0834,
+    "atm_iv": 0.1373,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 574.7,
+    "shadow_nogates": 1212.11,
+    "shadow_nohedge": 599.31,
+    "baseline_naive": -19.98
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +574.70 (+0.57%) marked 2026-09-09T16:15:07  realized +598.00
+broker equity 100,544.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 152 across 7 kinds  blotter 900 of 3189
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 132, gates 64, desk 75, refusals 152, integrity 169, derisk 38, ticks 168, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 228, shadow_nogates 227, shadow_nohedge 227, baseline_naive 227
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (574 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 761.6400000000001,
+    "rv20": 0.0834,
+    "atm_iv": 0.1362,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 591.02,
+    "shadow_nogates": 1311.52,
+    "shadow_nohedge": 614.81,
+    "baseline_naive": -24.92
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +591.02 (+0.59%) marked 2026-09-09T16:30:08  realized +598.00
+broker equity 100,565.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 153 across 7 kinds  blotter 900 of 3242
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 133, gates 64, desk 75, refusals 153, integrity 170, derisk 39, ticks 169, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 232, shadow_nogates 231, shadow_nohedge 231, baseline_naive 231
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (577 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 762.44,
+    "rv20": 0.0834,
+    "atm_iv": 0.1359,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 584.71,
+    "shadow_nogates": 1233.68,
+    "shadow_nohedge": 614.83,
+    "baseline_naive": -250.25
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +584.71 (+0.58%) marked 2026-09-09T16:45:06  realized +598.00
+broker equity 100,565.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 154 across 7 kinds  blotter 900 of 3295
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 134, gates 64, desk 75, refusals 154, integrity 171, derisk 40, ticks 170, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 235, shadow_nogates 234, shadow_nohedge 234, baseline_naive 234
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (579 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 762.575,
+    "rv20": 0.0834,
+    "atm_iv": 0.1361,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 566.04,
+    "shadow_nogates": 1250.04,
+    "shadow_nohedge": 596.12,
+    "baseline_naive": -275.19
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +566.04 (+0.57%) marked 2026-09-09T17:00:08  realized +598.00
+broker equity 100,547.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 155 across 7 kinds  blotter 900 of 3348
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 135, gates 64, desk 75, refusals 155, integrity 172, derisk 41, ticks 171, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 239, shadow_nogates 238, shadow_nohedge 238, baseline_naive 238
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (582 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 763.1949999999999,
+    "rv20": 0.0834,
+    "atm_iv": 0.1359,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 551.12,
+    "shadow_nogates": 1166.45,
+    "shadow_nohedge": 581.37,
+    "baseline_naive": -430.87
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +551.12 (+0.55%) marked 2026-09-09T17:15:07  realized +598.00
+broker equity 100,542.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 156 across 7 kinds  blotter 900 of 3401
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 136, gates 64, desk 75, refusals 156, integrity 173, derisk 42, ticks 172, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 242, shadow_nogates 241, shadow_nohedge 241, baseline_naive 241
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (584 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 762.94,
+    "rv20": 0.0834,
+    "atm_iv": 0.1354,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 592.44,
+    "shadow_nogates": 1288.09,
+    "shadow_nohedge": 623.81,
+    "baseline_naive": -365.3
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +592.44 (+0.59%) marked 2026-09-09T17:30:07  realized +598.00
+broker equity 100,561.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 157 across 7 kinds  blotter 900 of 3454
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 137, gates 64, desk 75, refusals 157, integrity 174, derisk 43, ticks 173, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 246, shadow_nogates 245, shadow_nohedge 245, baseline_naive 245
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (587 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 762.9449999999999,
+    "rv20": 0.0834,
+    "atm_iv": 0.1352,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 586.14,
+    "shadow_nogates": 1303.92,
+    "shadow_nohedge": 616.8,
+    "baseline_naive": -420.14
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +586.14 (+0.59%) marked 2026-09-09T17:45:06  realized +598.00
+broker equity 100,560.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 158 across 7 kinds  blotter 900 of 3507
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 138, gates 64, desk 75, refusals 158, integrity 175, derisk 44, ticks 174, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 250, shadow_nogates 249, shadow_nohedge 249, baseline_naive 249
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (590 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 763.05,
+    "rv20": 0.0834,
+    "atm_iv": 0.1351,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 554.72,
+    "shadow_nogates": 1224.83,
+    "shadow_nohedge": 590.44,
+    "baseline_naive": -404.77
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +554.72 (+0.56%) marked 2026-09-09T18:00:08  realized +598.00
+broker equity 100,560.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 159 across 7 kinds  blotter 900 of 3560
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 139, gates 64, desk 75, refusals 159, integrity 176, derisk 45, ticks 175, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 253, shadow_nogates 252, shadow_nohedge 252, baseline_naive 252
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (593 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 762.395,
+    "rv20": 0.0834,
+    "atm_iv": 0.1353,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 600.95,
+    "shadow_nogates": 1455.5,
+    "shadow_nohedge": 630.65,
+    "baseline_naive": -317.62
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +600.95 (+0.60%) marked 2026-09-09T18:15:06  realized +598.00
+broker equity 100,570.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 160 across 7 kinds  blotter 900 of 3613
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 140, gates 64, desk 75, refusals 160, integrity 177, derisk 46, ticks 176, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 257, shadow_nogates 256, shadow_nohedge 256, baseline_naive 256
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (596 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 762.83,
+    "rv20": 0.0834,
+    "atm_iv": 0.1343,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 585.46,
+    "shadow_nogates": 1257.9,
+    "shadow_nohedge": 622.46,
+    "baseline_naive": -427.79
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +585.46 (+0.58%) marked 2026-09-09T18:30:06  realized +598.00
+broker equity 100,564.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 161 across 7 kinds  blotter 900 of 3666
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 141, gates 64, desk 75, refusals 161, integrity 178, derisk 47, ticks 177, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 260, shadow_nogates 259, shadow_nohedge 259, baseline_naive 259
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (598 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 763.2,
+    "rv20": 0.0834,
+    "atm_iv": 0.1351,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 594.18,
+    "shadow_nogates": 1355.99,
+    "shadow_nohedge": 628.28,
+    "baseline_naive": -470.86
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +594.18 (+0.59%) marked 2026-09-09T18:45:07  realized +598.00
+broker equity 100,564.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 162 across 7 kinds  blotter 900 of 3719
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 142, gates 64, desk 75, refusals 162, integrity 179, derisk 48, ticks 178, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 264, shadow_nogates 263, shadow_nohedge 263, baseline_naive 263
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (601 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 762.9200000000001,
+    "rv20": 0.0834,
+    "atm_iv": 0.1346,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 602.09,
+    "shadow_nogates": 1364.92,
+    "shadow_nohedge": 639.26,
+    "baseline_naive": -444.98
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +602.09 (+0.60%) marked 2026-09-09T19:00:08  realized +598.00
+broker equity 100,579.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 163 across 7 kinds  blotter 900 of 3772
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 143, gates 64, desk 75, refusals 163, integrity 180, derisk 49, ticks 179, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 268, shadow_nogates 267, shadow_nohedge 267, baseline_naive 267
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (604 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 763.01,
+    "rv20": 0.0834,
+    "atm_iv": 0.1358,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 570.14,
+    "shadow_nogates": 1361.25,
+    "shadow_nohedge": 601.54,
+    "baseline_naive": -449.46
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +570.14 (+0.57%) marked 2026-09-09T19:15:07  realized +598.00
+broker equity 100,567.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 164 across 7 kinds  blotter 900 of 3825
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 144, gates 64, desk 75, refusals 164, integrity 181, derisk 50, ticks 180, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 271, shadow_nogates 270, shadow_nohedge 270, baseline_naive 270
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (606 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 763.11,
+    "rv20": 0.0834,
+    "atm_iv": 0.1354,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 604.18,
+    "shadow_nogates": 1348.78,
+    "shadow_nohedge": 634.66,
+    "baseline_naive": -469.64
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +604.18 (+0.60%) marked 2026-09-09T19:30:08  realized +598.00
+broker equity 100,577.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 165 across 7 kinds  blotter 900 of 3878
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 145, gates 64, desk 75, refusals 165, integrity 182, derisk 51, ticks 181, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 275, shadow_nogates 274, shadow_nohedge 274, baseline_naive 274
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (609 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 762.89,
+    "rv20": 0.0834,
+    "atm_iv": 0.1358,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 616.91,
+    "shadow_nogates": 1358.91,
+    "shadow_nohedge": 647.59,
+    "baseline_naive": -416.26
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +616.91 (+0.62%) marked 2026-09-09T19:45:07  realized +598.00
+broker equity 100,565.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 166 across 7 kinds  blotter 900 of 3931
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 146, gates 64, desk 75, refusals 166, integrity 183, derisk 52, ticks 182, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 278, shadow_nogates 277, shadow_nohedge 277, baseline_naive 277
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (612 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{"market_closed": true, "next_open": "2026-09-10T09:30:00-04:00"}
+book pnl +606.57 (+0.61%) marked 2026-09-09T19:57:05  realized +598.00
+broker equity 100,549.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 167 across 7 kinds  blotter 900 of 3974
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 146, gates 64, desk 75, refusals 167, integrity 184, derisk 52, ticks 183, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 281, shadow_nogates 280, shadow_nohedge 280, baseline_naive 280
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (614 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{"market_closed": true, "next_open": "2026-09-10T09:30:00-04:00"}
+book pnl +606.57 (+0.61%) marked 2026-09-09T19:57:05  realized +598.00
+broker equity 100,549.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 168 across 7 kinds  blotter 900 of 3978
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 146, gates 64, desk 75, refusals 168, integrity 185, derisk 52, ticks 184, alt 96, brokercheck 5, reprice 4, daily 9, quarantine 8
+        books real 281, shadow_nogates 280, shadow_nohedge 280, baseline_naive 280
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (614 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+evidence saved to C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\data\evidence\2026-09-09: account, positions, orders, activities, portfolio_history
+note generation failed: HTTPError: 400 Client Error: Bad Request for url: https://api.anthropic.com/v1/messages
+THETA DESK — сводка за 2026-09-09
+
+Счёт: $100,569 (старт $100,000, +569)
+Зафиксировано с начала недели: +598$
+Открыто позиций: 5 (бумажная прибыль +51$)
+  • SPY 712P до 18.09 (куплено, x1) — сейчас +0$
+  • QQQ 680P/670P/735C/745C до 18.09 (продано, x1) — сейчас +18$
+  • QQQ 681P/671P/732C/742C до 18.09 (продано, x1) — сейчас -4$
+  • QQQ 694P/684P/741C/751C до 18.09 (продано, x1) — сейчас +16$
+  • QQQ 694P/684P/740C/750C до 18.09 (продано, x1) — сейчас +22$
+
+Сегодня: тиков 28, входов 0, закрытий 0, отказов гейтов 0, вето 0, нет кандидата 0
+Волатильность: дорогая (продаём премию) — IV 13.6% против RV 8.3%, спот 762.89
+Ближайшее событие: CPI (August) через 16 ч
+
+delivery: {'logged': True, 'telegram': False, 'webhook': False, 'muted': True}
+OK: chain intact (3978 entries)
+snapshots: 48 compressed, 0 already, 56.3 MB saved, 0 raw pruned
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\publish.ps1:49 char:1
++ git push -q
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{"market_closed": true, "next_open": "2026-09-10T09:30:00-04:00"}
+book pnl +606.57 (+0.61%) marked 2026-09-09T19:57:05  realized +598.00
+broker equity 100,549.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 3983
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 146, gates 64, desk 75, refusals 169, integrity 186, derisk 52, ticks 185, alt 96, brokercheck 6, reprice 4, daily 9, quarantine 8
+        books real 281, shadow_nogates 280, shadow_nohedge 280, baseline_naive 280
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (615 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+note generation failed: HTTPError: 400 Client Error: Bad Request for url: https://api.anthropic.com/v1/messages
+OK: chain intact (3983 entries)
+snapshots: 0 compressed, 48 already, 0.0 MB saved, 0 raw pruned
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\publish.ps1:49 char:1
++ git push -q
++ ~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 758.5550000000001,
+    "rv20": 0.0842,
+    "atm_iv": 0.1448,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 590.21,
+    "shadow_nogates": 1258.72,
+    "shadow_nohedge": 599.81,
+    "baseline_naive": 724.87
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +590.21 (+0.59%) marked 2026-09-10T13:30:08  realized +598.00
+broker equity 100,551.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 3998
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 147, gates 64, desk 75, refusals 169, integrity 187, derisk 52, ticks 186, alt 96, brokercheck 7, reprice 4, daily 9, quarantine 8
+        books real 282, shadow_nogates 281, shadow_nohedge 281, baseline_naive 281
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (615 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 758.3050000000001,
+    "rv20": 0.0842,
+    "atm_iv": 0.1454,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 643.86,
+    "shadow_nogates": 1612.06,
+    "shadow_nohedge": 646.62,
+    "baseline_naive": 873.65
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +643.86 (+0.64%) marked 2026-09-10T13:45:09  realized +598.00
+broker equity 100,633.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4050
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 148, gates 64, desk 75, refusals 169, integrity 188, derisk 52, ticks 187, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 286, shadow_nogates 285, shadow_nohedge 285, baseline_naive 285
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (618 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 757.025,
+    "rv20": 0.0842,
+    "atm_iv": 0.1481,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 644.36,
+    "shadow_nogates": 1627.99,
+    "shadow_nohedge": 641.17,
+    "baseline_naive": 1217.08
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +644.36 (+0.64%) marked 2026-09-10T14:00:09  realized +598.00
+broker equity 100,621.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4102
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 149, gates 64, desk 75, refusals 169, integrity 189, derisk 52, ticks 188, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 290, shadow_nogates 289, shadow_nohedge 289, baseline_naive 289
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (621 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 757.48,
+    "rv20": 0.0842,
+    "atm_iv": 0.1478,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 674.69,
+    "shadow_nogates": 1818.03,
+    "shadow_nohedge": 677.77,
+    "baseline_naive": 1045.12
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +674.69 (+0.68%) marked 2026-09-10T14:15:07  realized +598.00
+broker equity 100,652.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4154
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 150, gates 64, desk 75, refusals 169, integrity 190, derisk 52, ticks 189, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 293, shadow_nogates 292, shadow_nohedge 292, baseline_naive 292
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (623 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 758.955,
+    "rv20": 0.0842,
+    "atm_iv": 0.1432,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 696.54,
+    "shadow_nogates": 1925.84,
+    "shadow_nohedge": 707.96,
+    "baseline_naive": 486.36
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +696.54 (+0.70%) marked 2026-09-10T14:30:08  realized +598.00
+broker equity 100,675.48
+open 5  closed 6  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4211
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 152, gates 64, desk 75, refusals 169, integrity 191, derisk 52, ticks 190, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 298, shadow_nogates 297, shadow_nohedge 297, baseline_naive 297
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (627 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 758.65,
+    "rv20": 0.0842,
+    "atm_iv": 0.1439,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 684.11,
+    "shadow_nogates": 1866.74,
+    "shadow_nohedge": 697.8,
+    "baseline_naive": 598.75
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +684.11 (+0.68%) marked 2026-09-10T14:45:09  realized +626.00
+broker equity 100,653.38
+open 4  closed 7  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4274
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 154, gates 64, desk 75, refusals 169, integrity 192, derisk 52, ticks 191, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 301, shadow_nogates 300, shadow_nohedge 300, baseline_naive 300
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (630 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 759.285,
+    "rv20": 0.0842,
+    "atm_iv": 0.1427,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 673.86,
+    "shadow_nogates": 1917.29,
+    "shadow_nohedge": 694.0699999999999,
+    "baseline_naive": 375.28
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +673.86 (+0.67%) marked 2026-09-10T15:00:43  realized +626.00
+broker equity 100,669.38
+open 4  closed 7  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4325
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 155, gates 64, desk 75, refusals 169, integrity 193, derisk 52, ticks 192, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 305, shadow_nogates 304, shadow_nohedge 304, baseline_naive 304
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (633 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 759.0699999999999,
+    "rv20": 0.0842,
+    "atm_iv": 0.1429,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 693.17,
+    "shadow_nogates": 2014.52,
+    "shadow_nohedge": 709.4300000000001,
+    "baseline_naive": 421.63
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +693.17 (+0.69%) marked 2026-09-10T15:15:09  realized +626.00
+broker equity 100,675.38
+open 4  closed 7  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4376
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 156, gates 64, desk 75, refusals 169, integrity 194, derisk 52, ticks 193, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 309, shadow_nogates 308, shadow_nohedge 308, baseline_naive 308
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (635 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 759.31,
+    "rv20": 0.0842,
+    "atm_iv": 0.1431,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 687.86,
+    "shadow_nogates": 2049.45,
+    "shadow_nohedge": 707.35,
+    "baseline_naive": 356.22
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +687.86 (+0.69%) marked 2026-09-10T15:30:24  realized +626.00
+broker equity 100,680.38
+open 4  closed 7  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4427
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 157, gates 64, desk 75, refusals 169, integrity 195, derisk 52, ticks 194, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 312, shadow_nogates 311, shadow_nohedge 311, baseline_naive 311
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (637 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 759.4,
+    "rv20": 0.0842,
+    "atm_iv": 0.1431,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 686.72,
+    "shadow_nogates": 1957.44,
+    "shadow_nohedge": 706.45,
+    "baseline_naive": 317.1
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +686.72 (+0.69%) marked 2026-09-10T15:45:21  realized +626.00
+broker equity 100,678.38
+open 4  closed 7  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4493
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 158, gates 64, desk 75, refusals 169, integrity 196, derisk 52, ticks 195, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 317, shadow_nogates 316, shadow_nohedge 316, baseline_naive 316
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (640 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 758.525,
+    "rv20": 0.0842,
+    "atm_iv": 0.1435,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 687.64,
+    "shadow_nogates": 1978.22,
+    "shadow_nohedge": 698.08,
+    "baseline_naive": 619.78
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +687.64 (+0.69%) marked 2026-09-10T16:00:11  realized +626.00
+broker equity 100,667.38
+open 4  closed 7  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4544
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 159, gates 64, desk 75, refusals 169, integrity 197, derisk 52, ticks 196, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 320, shadow_nogates 319, shadow_nohedge 319, baseline_naive 319
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (642 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 759.21,
+    "rv20": 0.0842,
+    "atm_iv": 0.1437,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 700.39,
+    "shadow_nogates": 2085.63,
+    "shadow_nohedge": 718.0699999999999,
+    "baseline_naive": 378.44
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +700.39 (+0.70%) marked 2026-09-10T16:48:13  realized +626.00
+broker equity 100,683.38
+open 4  closed 7  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4643
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 161, gates 64, desk 75, refusals 169, integrity 198, derisk 52, ticks 197, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 327, shadow_nogates 326, shadow_nohedge 326, baseline_naive 326
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (648 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 758.965,
+    "rv20": 0.0842,
+    "atm_iv": 0.1415,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 693.41,
+    "shadow_nogates": 2081.43,
+    "shadow_nohedge": 711.63,
+    "baseline_naive": 409.59
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +693.41 (+0.69%) marked 2026-09-10T17:00:12  realized +626.00
+broker equity 100,682.38
+open 4  closed 7  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4750
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 163, gates 64, desk 75, refusals 169, integrity 199, derisk 52, ticks 198, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 334, shadow_nogates 333, shadow_nohedge 333, baseline_naive 333
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (654 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 759.02,
+    "rv20": 0.0842,
+    "atm_iv": 0.1424,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 709.62,
+    "shadow_nogates": 2142.83,
+    "shadow_nohedge": 726.31,
+    "baseline_naive": 470.54
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +709.62 (+0.71%) marked 2026-09-10T17:15:07  realized +626.00
+broker equity 100,687.38
+open 4  closed 7  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4804
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 164, gates 64, desk 75, refusals 169, integrity 200, derisk 52, ticks 199, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 338, shadow_nogates 337, shadow_nohedge 337, baseline_naive 337
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (657 KB)
+git : remote: Permission to pip00sya/theta-desk.git denied to luvmeru.
+At C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\ops\tick_wrapper.ps1:39 char:5
++     git -C $repo push -q origin master 2>&1 | Out-File -Append -Encod ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Permiss...ied to luvmeru.:String) [], Remote 
+   Exception
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: unable to access 'https://github.com/pip00sya/theta-desk.git/': The requested URL returned 
+error: 403
+{
+  "signals": {
+    "spot": 758.395,
+    "rv20": 0.0842,
+    "atm_iv": 0.1457,
+    "vrp_score": 1.0
+  },
+  "marks": {
+    "real": 699.55,
+    "shadow_nogates": 2063.58,
+    "shadow_nohedge": 714.94,
+    "baseline_naive": 635.29
+  },
+  "entry_made": false,
+  "mode": "full"
+}
+book pnl +699.55 (+0.70%) marked 2026-09-10T17:30:08  realized +626.00
+broker equity 100,682.38
+open 4  closed 7  unfilled 5  = 16 total
+refusals 169 across 7 kinds  blotter 900 of 4872
+chain OK  test defs 160 / collected 167  claims 20
+series: signal 166, gates 64, desk 75, refusals 169, integrity 201, derisk 52, ticks 200, alt 96, brokercheck 7, reprice 4, daily 10, quarantine 8
+        books real 342, shadow_nogates 341, shadow_nohedge 341, baseline_naive 341
+
+wrote C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\dashboard\web\data.json (661 KB)

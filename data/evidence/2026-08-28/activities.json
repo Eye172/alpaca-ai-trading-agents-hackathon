@@ -1,0 +1,16 @@
+[
+  {
+    "id": "20260828152119702::22709453-c14c-4f07-beec-602249d0e19e",
+    "activity_type": "FILL",
+    "transaction_time": "2026-08-28T19:21:19.702919Z",
+    "type": "fill",
+    "price": "3.77",
+    "qty": "1",
+    "side": "buy",
+    "symbol": "SPY260918P00754000",
+    "leaves_qty": "0",
+    "order_id": "48fd8336-8cab-4071-a001-6a5f87b598f3",
+    "cum_qty": "1",
+    "order_status": "filled"
+  }
+]

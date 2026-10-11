@@ -3,7 +3,7 @@
 ![THETA DESK](submission/cover.png)
 
 **An autonomous options desk on Alpaca that prices volatility, not direction.**
-Team Qwertys — [Alpaca AI Trading Agents Hackathon](https://lablab.ai/ai-hackathons/alpaca-ai-trading-agents-hackathon) (lablab.ai), Aug 28 – Sep 4, 2026.
+Team QwertyS — [Alpaca AI Trading Agents Hackathon](https://lablab.ai/ai-hackathons/alpaca-ai-trading-agents-hackathon) (lablab.ai), Aug 28 – Sep 4, 2026.
 
 <p>
 <a href="https://theta-desk.streamlit.app"><b>▶ Dashboard</b></a> (daily snapshot) ·
@@ -166,3 +166,26 @@ measurement is the deliverable; the code is the next session's.
   in the write-up
 
 MIT License.
+
+## Team and repository provenance
+
+**QwertyS** — jointly developed by Shakhnazar Akhmer and Nurkhan Aimukatov.
+
+| Contributor | GitHub | Roles |
+|---|---|---|
+| Shakhnazar Akhmer | [Eye172](https://github.com/Eye172) | Full-stack Engineer · Software Engineer · AI Engineer · ML Engineer |
+| Nurkhan Aimukatov | [pip00sya](https://github.com/pip00sya) | Full-stack Engineer · Software Engineer · AI Engineer |
+
+Both contributors hold equal engineering roles. Source repository:
+[pip00sya/theta-desk](https://github.com/pip00sya/theta-desk). Full-history copy and
+project materials: [Eye172/alpaca-ai-trading-agents-hackathon](https://github.com/Eye172/alpaca-ai-trading-agents-hackathon).
+
+## Migration record
+
+This copy republishes the complete imported Git history under the Eye172 account,
+at Shakhnazar Akhmer's request. File trees, commit dates, messages and parent
+relationships are preserved. Original authorship metadata, source references and
+the original-to-republished commit mapping are in
+[docs/migration/history.json](docs/migration/history.json).
+Source repositories and their existing development history remain preserved.
+API credentials and machine environment files are supplied separately at runtime.

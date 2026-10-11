@@ -1,0 +1,35 @@
+127.0.0.1 - - [04/Sep/2026 19:30:30] "GET /submission/_video/slide2.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2026 19:30:30] code 404, message File not found
+127.0.0.1 - - [04/Sep/2026 19:30:30] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [04/Sep/2026 19:30:34] "GET /submission/_video/slide3.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2026 19:30:36] "GET /submission/_video/slide4.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2026 19:30:39] "GET /submission/_video/slide6.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2026 19:30:39] code 404, message File not found
+127.0.0.1 - - [04/Sep/2026 19:30:39] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [04/Sep/2026 19:30:40] "GET /submission/_video/ablation.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2026 19:30:40] code 404, message File not found
+127.0.0.1 - - [04/Sep/2026 19:30:40] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [04/Sep/2026 19:30:42] "GET /submission/_video/verify.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2026 19:30:42] code 404, message File not found
+127.0.0.1 - - [04/Sep/2026 19:30:42] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [04/Sep/2026 19:30:47] "GET /submission/_video/account.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Sep/2026 19:30:47] code 404, message File not found
+127.0.0.1 - - [04/Sep/2026 19:30:47] "GET /favicon.ico HTTP/1.1" 404 -
+slides rendered
+ablation frame rendered
+live-data frames rendered
+segment 1 done (cover.png)
+segment 2 done (slide2.png)
+segment 3 done (slide3.png)
+segment 4 done (slide4.png)
+segment 45 done (shield.png)
+segment 55 done (slide6.png)
+segment 5 done (ablation.png)
+segment 58 done (console.png)
+segment 6 done (verify.png)
+segment 7 done (account.png)
+segment 8 done (cover.png)
+
+VIDEO: C:\Users\Nurkhan\Desktop\Alpaca AI\theta-desk\submission\theta-desk-video.mp4
+duration: 416.3s  size: 13.6 MB
+EXIT=0

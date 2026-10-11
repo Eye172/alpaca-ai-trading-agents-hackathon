@@ -1,0 +1,22 @@
+[
+  {
+    "asset_id": "6881cfad-f59e-45d3-890b-2567a355e348",
+    "symbol": "SPY260918P00751000",
+    "exchange": "",
+    "asset_class": "us_option",
+    "asset_marginable": true,
+    "qty": "1",
+    "qty_available": "1",
+    "avg_entry_price": "3.66",
+    "side": "long",
+    "market_value": "515",
+    "cost_basis": "366",
+    "unrealized_pl": "149",
+    "unrealized_plpc": "0.4071",
+    "unrealized_intraday_pl": "179",
+    "unrealized_intraday_plpc": "0.53274",
+    "current_price": "5.15",
+    "lastday_price": "3.36",
+    "change_today": "0.53274"
+  }
+]
