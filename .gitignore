@@ -42,3 +42,8 @@ research/
 
 # the operator's telegram mute marker - local, not a git-tracked state
 data/alerts_mute
+
+# Browser capture profiles must never enter Git, even outside _video.
+edgeprof/
+edgeprof2/
+shotprof/
