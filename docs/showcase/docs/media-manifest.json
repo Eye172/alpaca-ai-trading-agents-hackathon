@@ -28,5 +28,15 @@
     "file": "theta-rules.png",
     "bytes": 120409,
     "sha256": "cdbd27e494329c5ae6a24f60e44a981b6706ab25fb12fe4486c84e4acce74633"
+  },
+  {
+    "file": "media/demo-preview.jpg",
+    "bytes": 26568,
+    "sha256": "a7c7fc9ac4968e86d6cf6881349dc83b31355e278855d8c9227e0ad93d03067f"
+  },
+  {
+    "file": "media/pitch-preview.jpg",
+    "bytes": 63110,
+    "sha256": "d59e9df26c7eb651348442f987cd87d6f4ed85f817bc0234337193572ea91957"
   }
 ]
